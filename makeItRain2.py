@@ -53,7 +53,7 @@ class Raindrops():
 
         pygame.draw.circle(screen, drop_color, [self.x_pos, self.y_pos], self.drop_size)
 		
-
+#here is a change for github
 
 # -------- Main Program Loop -----------
 rain = Raindrops(350,250,10,2)
